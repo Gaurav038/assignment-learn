@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}
+
+:root {
+
+  /* Colors */
+  --color-aliceblue: #f1f5f9;
+  --color-whitesmoke-100: #efefef;
+  --color-darkgray: #b1b1b1;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-silver: #c1c9d2;
+  --color-darkslategray: #235365;
+
+}
+
